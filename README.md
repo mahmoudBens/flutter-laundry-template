@@ -1,16 +1,31 @@
-# flutter_laundry_app
+# flutter laundry ui template 
+flutter Laundry simple template, for beginners learners
+### Show some ❤️ and star the repo to support the project.
+-------------
+###  Note
+-------------
 
-A new Flutter application.
+This repository is still under development and I will continue to add more features to it.
 
-## Getting Started
+###  SCREENSHOTS
+-------------
+![](https://github.com/mahmoudBens/flutter-laundry-template/blob/master/Screens.png?raw=true)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+###  2. FEATURES
+-------------
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- LOGIN & SIGNUP
+- HOME SCREEN
+- ONGOING SCREEN
+
+
+
+## How to Contribute
+-------------
+1. Fork the the project
+2. Create your feature branch (git checkout -b my-new-feature)
+3. Make required changes and commit (git commit -am 'Add some feature')
+4. Push to the branch (git push origin my-new-feature)
+5. Create new Pull Request
